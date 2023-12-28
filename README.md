@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Matias
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I´m Front-End enthusiast currently fine-tuning my portfolio and diving into new technologies.<br><br>I'm eager to contribute value and collaborate on interesting projects. I'm completely open to learning something new.<br><br>💬 Feel free to ask me about Javascript, React, Redux, Vite, Express, PostgreSQL, Postman, Nodemon, Sequelize, CSS modules, Sass, HTML.<br><br>📫 You can reach out to me at mspanopablo@gmail.com<br><br>Excited to connect and explore new opportunities together! 🚀
+I´m Front-End enthusiast currently fine-tuning my portfolio and diving into new technologies.<br><br>I'm eager to contribute value and collaborate on interesting projects. I'm completely open to learning something new.<br><br>💬 Feel free to ask me about Javascript, React, Redux, Vite, Nextjs, Express, PostgreSQL, Postman, Nodemon, Sequelize, CSS modules, Sass, HTML.<br><br>📫 You can reach out to me at mspanopablo@gmail.com<br><br>Excited to connect and explore new opportunities together! 🚀
 
 
 ## 🌐 Socials:
